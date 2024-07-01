@@ -1,0 +1,2 @@
+https://arxiv.org/abs/1612.00796
+https://medium.com/@plmanabhan/unveiling-the-unpredictable-how-catastrophic-forgetting-affects-ai-performance-5c69071b703f
